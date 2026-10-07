@@ -308,6 +308,20 @@ Client receives response and displays data
 
 ---
 
+## Output
+--SERVER--
+<img width="1920" height="1080" alt="Screenshot 2026-10-07 234246" src="https://github.com/user-attachments/assets/3ba9d0c1-a74a-4fc9-863a-43e9efcfded0" />
+
+--CLIENT--
+<img width="1920" height="1080" alt="Screenshot 2026-10-07 234657" src="https://github.com/user-attachments/assets/a89b8336-4892-414e-90f8-52bb6c847681" />
+
+--RUNNING--
+
+https://github.com/user-attachments/assets/4e905d07-dc2e-4be4-8e46-4f5f4107194f
+
+--------
+
+
 ## Embedded Concepts Demonstrated
 
 1. **Inter-process communication**: QNX native message passing (`MsgSend` / `MsgReceive` / `MsgReply`) between independent processes.
